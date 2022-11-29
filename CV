@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+      <title>Boulmaiz mohamed</title>
+	</head>
+	<body>
+        <h1>boulmaiz mohamed</h1>
+		<p><strong>Software Engineer</strong></p>
+		<img src="https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-370-456322-512.png" height="150px" width=" 150px">
+		<hr>
+		<h2><i>Summary</i></h2>
+		<p>im Boulmaiz mohamed a software enginner and fullstack web devloper </p>
+		<h2><i>Experience and education</i></h2>
+		<ul>
+			<li><p>Master degree in software enginnering</p></li>
+			<li><p>a full stack web devloper</p></li>
+			<li><p>Project manager and scrum master</p></li>
+		</ul>
+		<h2><i>skills</i></h2>
+		<table border="1">
+          <tr>
+			   <td><strong>Technologies</strong></td>
+               <td>java</td>
+               <td>html ,css,javascript</td>
+			   <td>Php , Laravel</td>
+			   <td>python</td>
+			   <td>C++</td>
+		  </tr>
+          <tr>
+			   <td><strong>Soft Skills</strong></td>
+               <td>Problem solving</td>
+               <td>Project managment</td>
+			   <td>Team work</td>
+			   <td>Time managment</td>
+			   <td>Flexibility</td>
+		  </tr>
+
+		</table>
+
+    <h2><i>Write me a message</i></h2> 
+	<form  action="url" method="POST">
+    <input placeholder="Name" required /><br>
+    <input placeholder="Email" required /><br>
+    <textarea placeholder="Message" required ></textarea><br>
+    <input type="submit" value="SEND"/>
+</form>
+	<br><br>
+		<h2><i>Contacts</i></h2>
+<a href="account1 link" target="_blank">Github</a>
+<a href="account2 link" target="_blank">LinkIn</a>
+	</body>
+</html>
